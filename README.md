@@ -19,8 +19,7 @@ maka hasilnya akan seperti ini :
 
 selanjutnya agar bisa menambahkan data kita tambahkan :
 
- #<button><a href="tambah.php">Tambah Barang</a></button>
-      <br><br>
+![Cuplikan layar 2021-06-05 121934](https://user-images.githubusercontent.com/81411450/120881024-572c1480-c5f8-11eb-936f-54286ad1aabb.png)
 
 tambahkan code diatas pada index dan pastikan sudah terhubung dengan file tambah.php
 
