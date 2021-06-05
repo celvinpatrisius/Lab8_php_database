@@ -19,7 +19,7 @@ maka hasilnya akan seperti ini :
 
 selanjutnya agar bisa menambahkan data kita tambahkan :
 
- <button><a href="tambah.php">Tambah Barang</a></button>
+ #<button><a href="tambah.php">Tambah Barang</a></button>
       <br><br>
 
 tambahkan code diatas pada index dan pastikan sudah terhubung dengan file tambah.php
