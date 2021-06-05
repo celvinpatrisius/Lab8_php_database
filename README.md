@@ -28,3 +28,19 @@ maka hasilnya akan seperti ini :
 
 ![Cuplikan layar 2021-06-05 112041](https://user-images.githubusercontent.com/81411450/120880295-e2ef7200-c5f3-11eb-8437-073764feb32f.png)
 
+Berikut contoh saya tambahkan data baru :
+
+![Cuplikan layar 2021-06-05 112250](https://user-images.githubusercontent.com/81411450/120880803-a83b0900-c5f6-11eb-8134-b1e6c25bff34.png)
+
+maka otomatis data baru akan muncul
+
+![Cuplikan layar 2021-06-05 112516](https://user-images.githubusercontent.com/81411450/120880880-44fda680-c5f7-11eb-9654-0295a1c790df.png)
+
+dan data yang kita tambahkan tadi akan muncul pada database
+
+
+![Cuplikan layar 2021-06-05 112444](https://user-images.githubusercontent.com/81411450/120880926-91e17d00-c5f7-11eb-8650-113e77cd5e1e.png)
+
+
+
+
